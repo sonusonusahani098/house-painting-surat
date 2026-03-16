@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://subdomain.buldel.com/sitemap.xml
+Sitemap: https://paintco.in/sitemap.xml
